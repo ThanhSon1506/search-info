@@ -1,0 +1,13 @@
+.image {
+    height: 200px;
+    width: 200px;
+}
+
+#image_preview {
+    object-fit: contain;
+}
+
+#header_home_icon {
+    width: 100%;
+
+}

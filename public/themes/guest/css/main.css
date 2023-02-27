@@ -1,0 +1,41 @@
+.hero-background {
+	background-image: url(../img/hero-bg.png);
+}
+
+.btn-view-info {
+	font-weight: 600;
+	cursor: pointer;
+}
+
+.fix-img-news {
+	max-height: 200px;
+	overflow: hidden;
+	object-fit: cover;
+}
+
+.fix-comments {
+	padding: 10px !important;
+}
+
+.cursor-pointer {
+	cursor: pointer;
+}
+
+.dropdown-btn .fa-angle-right {
+	display: none;
+}
+
+@media only screen and (max-width: 600px) {
+	.logo-none {
+		display: none;
+	}
+}
+
+.hidden {
+	display: none !important;
+	overflow: hidden !important;
+}
+
+.bg-background {
+	background-color: #f6f8fa !important;
+}
